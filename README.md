@@ -9,7 +9,7 @@
 ### Write .adi and .adx data
 
 ```javascript
-var adif = require("adif");
+var adif = require("adif-gsp");
 
 var contact = {
   "call": "AB0CDE",
@@ -31,7 +31,7 @@ var adxData = adxWriter.writeAll([contact]);
 ### Read .adi and .adx data
 
 ```javascript
-var adif = require("adif");
+var adif = require("adif-gsp");
 
 // Read .adi data
 var adiData = "<CALL:6>AB0CDE<FREQ:6>14.245<MODE:3>SSB ...";

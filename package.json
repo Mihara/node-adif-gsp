@@ -1,5 +1,5 @@
 {
-  "name": "adif",
+  "name": "adif-gsp",
   "version": "0.3.0",
   "description": "Amateur Data Interchange Format (ADIF) parser and generator",
   "author": "Thomas Gatzweiler <dl2ic@darc.de>, Mark Edwards <mark.p.edwards@gmail.com>",
