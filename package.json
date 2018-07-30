@@ -1,13 +1,13 @@
 {
   "name": "adif",
-  "version": "0.2.6",
+  "version": "0.2.6.1",
   "description": "Amateur Data Interchange Format (ADIF) parser and generator",
-  "author": "Thomas Gatzweiler <dl2ic@darc.de>",
+  "author": "Thomas Gatzweiler <dl2ic@darc.de>, Mark Edwards <mark.p.edwards@gmail.com>",
   "license": "GPL-3.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/7h0ma5/node-adif.git"
+    "url": "git://github.com/edwar64896/node-adif-gsp.git"
   },
   "scripts": {
     "test": "mocha test/",
